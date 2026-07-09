@@ -87,24 +87,21 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>DEVELOP</h3>
+              <h3>SALES & BD</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                Focused on identifying opportunities, driving growth, and building high-value business relationships. Experienced in lead generation, client acquisition, and strategy execution.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">Three.js</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Css</div>
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">PHP</div>
-                <div className="what-tags">MySql</div>
+                <div className="what-tags">Lead Generation</div>
+                <div className="what-tags">Sales Strategy</div>
+                <div className="what-tags">Business Development</div>
+                <div className="what-tags">Client Acquisition</div>
+                <div className="what-tags">Market Research</div>
+                <div className="what-tags">Microsoft Excel</div>
+                <div className="what-tags">Google Sheets</div>
+                <div className="what-tags">Google Workspace</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -128,22 +125,21 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>DESIGN</h3>
+              <h3>CUSTOMER SUCCESS</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                Dedicated to helping clients achieve their goals and maximizing product value. Strong background in relationship management, active listening, negotiation, and cross-functional team collaboration.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Blender</div>
-                <div className="what-tags">Zbrush</div>
-                <div className="what-tags">UI Design</div>
-                <div className="what-tags">Motion</div>
-                <div className="what-tags">Rigging</div>
-                <div className="what-tags">3D Animation</div>
-                <div className="what-tags">Character Design</div>
-                <div className="what-tags">Modelling</div>
+                <div className="what-tags">Customer Success</div>
+                <div className="what-tags">Negotiation</div>
+                <div className="what-tags">Presentation Skills</div>
+                <div className="what-tags">Customer Service</div>
+                <div className="what-tags">Active Listening</div>
+                <div className="what-tags">Problem Solving</div>
+                <div className="what-tags">Team Collaboration</div>
+                <div className="what-tags">Time Management</div>
               </div>
               <div className="what-arrow"></div>
             </div>

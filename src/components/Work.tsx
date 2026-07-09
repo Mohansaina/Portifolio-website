@@ -53,21 +53,35 @@ const Work = () => {
           My <span>Work</span>
         </h2>
         <div className="work-flex">
-          {[...Array(6)].map((_value, index) => (
+          {[
+            {
+              title: "Clothes Dry Alert",
+              category: "Weather Notification Platform",
+              tools: "Product Planning, Weather API, Notification Integrations",
+              desc: "Developed a customer-focused weather notification platform. Gathered user feedback to improve usability and customer experience."
+            },
+            {
+              title: "LLM Testing Portal",
+              category: "Product Testing & Analytics",
+              tools: "LLM Evaluation, Workflows, Documentation, Feedback Analysis",
+              desc: "Managed testing workflows and documented performance reports. Collaborated on evaluating multiple product improvements based on user feedback."
+            }
+          ].map((project, index) => (
             <div className="work-box" key={index}>
               <div className="work-info">
                 <div className="work-title">
                   <h3>0{index + 1}</h3>
 
                   <div>
-                    <h4>Project Name</h4>
-                    <p>Category</p>
+                    <h4>{project.title}</h4>
+                    <p>{project.category}</p>
                   </div>
                 </div>
                 <h4>Tools and features</h4>
-                <p>Javascript, TypeScript, React, Threejs</p>
+                <p>{project.tools}</p>
+                <p style={{ marginTop: '10px', fontSize: '14px', opacity: 0.8 }}>{project.desc}</p>
               </div>
-              <WorkImage image="/images/placeholder.webp" alt="" />
+              <WorkImage image="/images/placeholder.webp" alt={project.title} />
             </div>
           ))}
         </div>

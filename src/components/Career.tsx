@@ -15,43 +15,51 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Software Engineering Virtual Experience Program</h4>
+                <h5>JPMorgan Chase (Forage)</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Collaborated with a professional team to solve business-oriented challenges. Developed analytical and communication skills while presenting project solutions, following professional workflows and documentation practices.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>B.Tech in Electrical and Electronics Engineering</h4>
+                <h5>Seshadri Rao Gudlavalleru Engineering College</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2023 - 2026</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Pursuing undergraduate degree in EEE with a focus on core engineering principles and modern technology integrations. Current CGPA: 8.19/10
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Diploma in Electrical and Electronics Engineering</h4>
+                <h5>Government Polytechnic, Visakhapatnam</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2020 - 2023</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Completed foundational diploma program in EEE with practical lab work and technical training. Completed with a CGPA of 7.3/10
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Professional Certifications</h4>
+                <h5>Oracle • IBM • NPTEL</h5>
+              </div>
+              <h3>2025</h3>
+            </div>
+            <p>
+              • Oracle Generative AI Professional <br />
+              • IBM SQL Certification <br />
+              • NPTEL – Intern
             </p>
           </div>
         </div>
